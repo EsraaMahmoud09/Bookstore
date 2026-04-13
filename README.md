@@ -82,20 +82,19 @@ Customers ──────────< Sales >────────── 
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 ```
  PageTurners_Bookstore
  ├── PageTurners_Bookstore_Create.sql   # Creates the database and all 4 tables
  ├── PageTurners_Bookstore_data.sql     # Inserts the sample data
  ├── PageTurners_Bookstore_Codes.sql    # All queries, updates, and operations
- ├── PageTurners_Bookstore_data.sql     # Inserts the sample data
- ├── PageTurners_Bookstore_data.sql     # Inserts the sample data
- └── PageTurners_Bookstore_Codes.sql    # All queries, updates, and operations
-
-
-```
-
+ ├── SQLQuery1.sql                      # Additional SQL queries – set 1
+ ├── SQLQuery2.sql                      # Additional SQL queries – set 2
+ ├── SQLQuery3.sql                      # Additional SQL queries – set 3
+ ├── Churn.ipynb                        # Jupyter Notebook – data analysis
+ ├── ERD diagram (database schema)
+ └── Additional Table relationship
 ---
 
 ##  Setup Instructions
